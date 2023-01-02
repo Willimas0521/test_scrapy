@@ -1,3 +1,4 @@
 # test_scrapy
 
-毕业设计选的基于scrapy的分布式网络爬虫，用到了随机更换ip，更换代理头部等等
+毕业设计选的基于scrapy的分布式网络爬虫，关于爬虫模块用到了随机更换ip，更换代理头部，数据库选用的是MongoDB数据库，在保存获取的链接的时候，用的是redis数据库。
+最后运用的是pandas，numpy和matlabplot进行的数据分析
